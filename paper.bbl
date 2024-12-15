@@ -1,8 +1,23 @@
 \begin{thebibliography}{1}
 
-\bibitem{Einstein}
-{\sc Einstein, A.}
-\newblock {Zur Elektrodynamik bewegter K{\"o}rper}. ({German}) [{On} the electrodynamics of moving bodies].
-\newblock {\em Annalen der Physik 322}, 10 (1905), 891--921.
+\bibitem{kaggleCaliforniaHousing}
+{C}alifornia {H}ousing {P}rices --- kaggle.com.
+\newblock \url{https://www.kaggle.com/datasets/camnugent/california-housing-prices}.
+\newblock [Accessed 15-12-2024].
+
+\bibitem{xgboost}
+{\sc Chen, T., and Guestrin, C.}
+\newblock {XGBoost}: A scalable tree boosting system.
+\newblock In {\em Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining\/} (New York, NY, USA, 2016), KDD '16, ACM, pp.~785--794.
+
+\bibitem{randomforest}
+{\sc Ho, T.~K.}
+\newblock Random decision forests.
+\newblock In {\em Proceedings of 3rd international conference on document analysis and recognition\/} (1995), vol.~1, IEEE, pp.~278--282.
+
+\bibitem{tsne}
+{\sc van~der Maaten, L., and Hinton, G.}
+\newblock Visualizing data using t-sne.
+\newblock {\em Journal of Machine Learning Research 9}, 86 (2008), 2579--2605.
 
 \end{thebibliography}
